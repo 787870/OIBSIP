@@ -22,3 +22,6 @@ This project involves performing Exploratory Data Analysis (EDA) on a retail sal
 Based on the visual data analysis, the following actions are recommended to optimize sales:
 * **Inventory & Marketing Focus:** The **Clothing** category drives the highest volume of transactions. We should increase inventory allocation for this category and feature clothing prominently in upcoming marketing campaigns.
 * **Targeted Demographics:** **Female** customers account for the slight majority of our transaction volume. Promotional emails and advertisements should be heavily tailored to engage this specific demographic to maximize conversion rates.
+
+## 🔗 Live Demonstration
+**Video Demo:** [Insert Your LinkedIn Post Link Here]
