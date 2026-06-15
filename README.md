@@ -21,6 +21,7 @@ Below is a breakdown of the tasks I am completing across all levels of the inter
 | **Level 2 (Task 3)** | *Pending Selection* | ⏳ Pending | - |
 | **Level 3 (Task 1)** | *Pending Selection* | ⏳ Pending | - |
 | **Level 3 (Task 2)** | *Pending Selection* | ⏳ Pending | - |
+| **Level 3 (Task 3)** | *Pending Selection* | ⏳ Pending | - |
 
 ---
 
