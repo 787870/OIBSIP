@@ -14,7 +14,7 @@ Below is a breakdown of the tasks I am completing across all levels of the inter
 | Task Level | Task Name | Status | Link |
 | :--- | :--- | :---: | :--- |
 | **Level 1 (Task 1)** | Exploratory Data Analysis (Retail Sales) | ✅ Completed | [View Project](./Task_1_EDA_Retail_Sales) |
-| **Level 1 (Task 2)** | *Pending Selection* | ⏳ Pending | - |
+| **Level 1 (Task 2)** | Customer Segmentation Analysis | ✅ Completed | [View Project](./Task_2_Customer_Segmentation) |
 | **Level 1 (Task 3)** | *Pending Selection* | ⏳ Pending | - |
 | **Level 2 (Task 1)** | *Pending Selection* | ⏳ Pending | - |
 | **Level 2 (Task 2)** | *Pending Selection* | ⏳ Pending | - |
