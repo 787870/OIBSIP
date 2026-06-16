@@ -24,4 +24,4 @@ Based on the visual data analysis, the following actions are recommended to opti
 * **Targeted Demographics:** **Female** customers account for the slight majority of our transaction volume. Promotional emails and advertisements should be heavily tailored to engage this specific demographic to maximize conversion rates.
 
 ## 🔗 Live Demonstration
-**Video Demo:** [Insert Your LinkedIn Post Link Here]
+**Video Demo:** (https://www.linkedin.com/posts/mohammed-aslam-a-363568298_oasisinfobyte-oasisinfobytefamily-internship-ugcPost-7472357994807091200-7PHl/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEf8WfsBpelwj07-q2VSFslYYAiwlYpd4uw)
