@@ -24,4 +24,4 @@ Using the Elbow Method, we determined the optimal number of clusters is **4**.
 * **Entry-Level Promotions:** Engage Segment 1 (Budget Shoppers) with bundle deals or basic necessities to gradually increase their lifetime value.
 
 ## 🔗 Live Demonstration
-https://www.linkedin.com/posts/mohammed-aslam-a-363568298_oasisinfobyte-oasisinfobytefamily-internship-ugcPost-7472716005014691840-4RUv/?utm_source=share&utm_medium=member_ios&rcm=ACoAAEf8WfsBpelwj07-q2VSFslYYAiwlYpd4uw
+Video Demo: (https://www.linkedin.com/posts/mohammed-aslam-a-363568298_oasisinfobyte-oasisinfobytefamily-internship-ugcPost-7472716005014691840-4RUv/?utm_source=share&utm_medium=member_ios&rcm=ACoAAEf8WfsBpelwj07-q2VSFslYYAiwlYpd4uw)
