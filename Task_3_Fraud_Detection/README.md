@@ -18,3 +18,6 @@ The objective of this project was to build a machine learning model capable of d
 4. **Evaluation:** The model achieved an outstanding **92% Accuracy and F1-Score**. I generated a Confusion Matrix to visualize the model's precise breakdown of True Positives, False Positives, True Negatives, and False Negatives.
 
 *Note: The dataset used for this project is the European Credit Card Fraud dataset. Due to GitHub's file size limits, the 493MB CSV was not uploaded to this repository. You can download the raw data from Kaggle to run this notebook locally.*
+
+## 🔗 Live Demonstration
+*Pending Video Upload*
