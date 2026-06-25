@@ -20,4 +20,4 @@ The objective of this project was to take a raw, messy dataset and perform data 
 4. **Export & Visualization:** Exported the newly cleaned dataset to a CSV and generated a distribution chart of NYC room types to verify data structure.
 
 ## 🔗 Live Demonstration
-[Linkedin]: (https://www.linkedin.com/posts/mohammed-aslam-a-363568298_oasisinfobyte-oasisinfobytefamily-internship-activity-7475027369573965824-8MEe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEf8WfsBpelwj07-q2VSFslYYAiwlYpd4uw)
+Video Demo: (https://www.linkedin.com/posts/mohammed-aslam-a-363568298_oasisinfobyte-oasisinfobytefamily-internship-activity-7475027369573965824-8MEe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEf8WfsBpelwj07-q2VSFslYYAiwlYpd4uw) 
