@@ -18,4 +18,4 @@ The objective of this project was to develop a Natural Language Processing (NLP)
 4. **Evaluation & Visualization:** The model achieved an impressive **93.30% overall accuracy**. Generated a comprehensive classification report and a Seaborn bar chart to visualize the overall distribution of sentiments across the dataset.
 
 ## 🔗 Live Demonstration
-*Pending Video Upload*
+Video Demo: https://www.linkedin.com/posts/mohammed-aslam-a-363568298_oasisinfobyte-oasisinfobytefamily-internship-activity-7475389770391814145-V3pD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEf8WfsBpelwj07-q2VSFslYYAiwlYpd4uw
