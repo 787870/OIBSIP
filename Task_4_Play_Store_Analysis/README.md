@@ -17,3 +17,6 @@ The objective of this project was to clean, analyze, and visualize Google Play S
 3. **Metrics Analysis:** Discovered that **Paid apps** have a slightly higher average rating (4.26) than **Free apps** (4.17).
 4. **Sentiment Analysis:** Merged app data with user reviews to visualize emotional trends, revealing that 61% of user reviews left on the Play Store are strictly Positive.
 5. **Interactive Visualization:** Built a dynamic, interactive bubble chart using Plotly to explore the top-performing apps by rating, reviews, and installs simultaneously.
+
+## 🔗 Live Demonstration
+*Pending Video Upload*
