@@ -20,7 +20,7 @@ Below is a breakdown of the tasks I am completing across all levels of the inter
 | **Level 2 (Task 1)** | Predicting House Prices | ✅ Completed | [View Project](./Task_1_House_Price_Prediction) |
 | **Level 2 (Task 2)** | Wine Quality Prediction | ✅ Completed | [View Project](./Task_2_Wine_Quality) |
 | **Level 2 (Task 3)** | Fraud Detection | ✅ Completed | [View Project](./Task_3_Fraud_Detection) |
-| **Level 3 (Task 2)** | *Pending Selection* | ⏳ Pending | - |
+| **Level 2 (Task 4)** | Google Play Store Analysis | ✅ Completed | [View Project](./Task_4_Play_Store_Analysis) |
 | **Level 3 (Task 3)** | *Pending Selection* | ⏳ Pending | - |
 
 ---
