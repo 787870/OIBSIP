@@ -35,4 +35,4 @@ Below is a breakdown of the tasks I am completing across all levels of the inter
 
 ## 📬 Let's Connect
 Feel free to reach out or review my other data projects!
-* [Connect with me on LinkedIn](Insert your actual LinkedIn Profile Link here)
+* [Connect with me on LinkedIn](www.linkedin.com/in/mohammed-aslam-a-363568298)
