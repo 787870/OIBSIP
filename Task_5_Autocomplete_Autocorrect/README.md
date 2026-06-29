@@ -23,3 +23,6 @@ This project uses a text dataset for Natural Language Processing. Due to GitHub'
 1. Download the dataset from (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
 2. Place the file in the same folder as this notebook.
 3. Update the `file_path` variable in the code if necessary.
+
+## 🔗 Live Demonstration
+*Pending Video Upload*
