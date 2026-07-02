@@ -20,4 +20,4 @@ The objective of this project was to build a machine learning model capable of d
 *Note: The dataset used for this project is the European Credit Card Fraud dataset. Due to GitHub's file size limits, the 493MB CSV was not uploaded to this repository. You can download the raw data from Kaggle to run this notebook locally.*
 
 ## 🔗 Live Demonstration
-*Pending Video Upload*
+Video Demo: (https://www.linkedin.com/posts/mohammed-aslam-a-363568298_oasisinfobyte-oasisinfobytefamily-internship-activity-7478288888537538560-RmTN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEf8WfsBpelwj07-q2VSFslYYAiwlYpd4uw)
