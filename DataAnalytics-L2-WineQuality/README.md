@@ -21,4 +21,4 @@ The objective of this project was to build a machine learning classification mod
 4. **Visualization:** Generated a bar chart to clearly compare the predictive performance of the three models.
 
 ## 🔗 Live Demonstration
-*Pending Video Upload*
+Video Demo: (https://www.linkedin.com/posts/mohammed-aslam-a-363568298_oasisinfobyte-oasisinfobytefamily-internship-activity-7477201683618365440-Lmzn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEf8WfsBpelwj07-q2VSFslYYAiwlYpd4uw)
