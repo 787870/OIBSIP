@@ -18,4 +18,4 @@ The objective of this project was to build a predictive machine learning model t
 4. **Evaluation & Visualization:** The model successfully learned the relationships and achieved an **R-squared Score of 0.6529**. I generated a scatter plot using Matplotlib and Seaborn to visually compare the actual house prices against the model's predicted prices.
 
 ## 🔗 Live Demonstration
-*Pending Video Upload*
+Video Demo: (https://www.linkedin.com/posts/mohammed-aslam-a-363568298_oasisinfobyte-oasisinfobytefamily-internship-activity-7476476941957484545-5QBp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEf8WfsBpelwj07-q2VSFslYYAiwlYpd4uw)
