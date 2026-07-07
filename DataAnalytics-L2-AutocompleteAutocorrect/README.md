@@ -25,4 +25,4 @@ This project uses a text dataset for Natural Language Processing. Due to GitHub'
 3. Update the `file_path` variable in the code if necessary.
 
 ## 🔗 Live Demonstration
-*Pending Video Upload*
+Video Demo: (https://www.linkedin.com/posts/mohammed-aslam-a-363568298_nlp-python-datascience-activity-7479738414637096960-Pz6b?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEf8WfsBpelwj07-q2VSFslYYAiwlYpd4uw)
