@@ -19,4 +19,4 @@ The objective of this project was to clean, analyze, and visualize Google Play S
 5. **Interactive Visualization:** Built a dynamic, interactive bubble chart using Plotly to explore the top-performing apps by rating, reviews, and installs simultaneously.
 
 ## 🔗 Live Demonstration
-*Pending Video Upload*
+[*Pending Video Upload*](https://www.linkedin.com/posts/mohammed-aslam-a-363568298_oasisinfobyte-oasisinfobytefamily-internship-activity-7479013650159099904-XabQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEf8WfsBpelwj07-q2VSFslYYAiwlYpd4uw)
